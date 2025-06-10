@@ -1,6 +1,6 @@
 # Currency Converter App
 
-Este é um aplicativo Android simples para conversão de moedas, desenvolvido como projeto acadêmico para a disciplina de Programação para Dispositivos Móveis na UFPR.
+Este é um aplicativo Android simples para conversão de moedas, desenvolvido como projeto acadêmico.
 
 ## Funcionalidades
 
